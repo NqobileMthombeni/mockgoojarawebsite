@@ -1,5 +1,8 @@
 🎬 Mock Goojara Website Design Demo
 
+![mockgoojarawebsite](Screenshot 2024-09-18 at 10.02.14.png)
+
+
 This project is a demo redesign of the Goojara website, created to showcase how I would approach modernizing the platform’s design. While the site is not fully functional, it offers a preview of my web design vision and skills. 🍿💻
 
 ✨ Overview
