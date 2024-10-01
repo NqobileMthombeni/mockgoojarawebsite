@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function searchMovies() {
     var query = encodeURIComponent(document.getElementById('searchInput').value);
-    var apiKey = '2dfd6b7c'; // Replace with your API key
+    var apiKey = '2dfd6b7c';
     var url = `https://www.omdbapi.com/?apikey=${apiKey}&s=${query}&type=movie`;
 
     // Display loading indicator
