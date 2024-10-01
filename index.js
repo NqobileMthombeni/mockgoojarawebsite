@@ -62,10 +62,7 @@ function searchMovies() {
         });
 }
 
-function changBg(bg, title, newTitle) {
-    document.body.style.backgroundImage = `url('${bg}')`;
-    document.getElementById("movieTitle").src = newTitle;
-}
+
 
 document.getElementById('trailerButton').addEventListener('click', function() {
     var trailerLink = document.querySelector('.carousel-item.active').getAttribute('data-trailer');
